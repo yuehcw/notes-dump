@@ -18,3 +18,4 @@ temperature AS current_temperature,
 temperature_difference
 FROM CTE2
 WHERE temperature_difference >= 15
+
